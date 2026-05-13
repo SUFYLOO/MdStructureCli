@@ -1,0 +1,14 @@
+/home/sufyan/Desktop/New Folder/MdStructureCli/obj/Release/net10.0/MdStructureCli.GeneratedMSBuildEditorConfig.editorconfig
+/home/sufyan/Desktop/New Folder/MdStructureCli/obj/Release/net10.0/MdStructureCli.AssemblyInfoInputs.cache
+/home/sufyan/Desktop/New Folder/MdStructureCli/obj/Release/net10.0/MdStructureCli.AssemblyInfo.cs
+/home/sufyan/Desktop/New Folder/MdStructureCli/obj/Release/net10.0/MdStructureCli.csproj.CoreCompileInputs.cache
+/home/sufyan/Desktop/New Folder/MdStructureCli/bin/Release/net10.0/MdStructureCli
+/home/sufyan/Desktop/New Folder/MdStructureCli/bin/Release/net10.0/MdStructureCli.deps.json
+/home/sufyan/Desktop/New Folder/MdStructureCli/bin/Release/net10.0/MdStructureCli.runtimeconfig.json
+/home/sufyan/Desktop/New Folder/MdStructureCli/bin/Release/net10.0/MdStructureCli.dll
+/home/sufyan/Desktop/New Folder/MdStructureCli/bin/Release/net10.0/MdStructureCli.pdb
+/home/sufyan/Desktop/New Folder/MdStructureCli/obj/Release/net10.0/MdStructureCli.dll
+/home/sufyan/Desktop/New Folder/MdStructureCli/obj/Release/net10.0/refint/MdStructureCli.dll
+/home/sufyan/Desktop/New Folder/MdStructureCli/obj/Release/net10.0/MdStructureCli.pdb
+/home/sufyan/Desktop/New Folder/MdStructureCli/obj/Release/net10.0/MdStructureCli.genruntimeconfig.cache
+/home/sufyan/Desktop/New Folder/MdStructureCli/obj/Release/net10.0/ref/MdStructureCli.dll

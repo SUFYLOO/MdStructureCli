@@ -1,0 +1,5 @@
+/home/sufyan/Desktop/New Folder/MdStructureCli/bin/Release/net10.0/publish/MdStructureCli
+/home/sufyan/Desktop/New Folder/MdStructureCli/bin/Release/net10.0/publish/MdStructureCli.dll
+/home/sufyan/Desktop/New Folder/MdStructureCli/bin/Release/net10.0/publish/MdStructureCli.deps.json
+/home/sufyan/Desktop/New Folder/MdStructureCli/bin/Release/net10.0/publish/MdStructureCli.runtimeconfig.json
+/home/sufyan/Desktop/New Folder/MdStructureCli/bin/Release/net10.0/publish/MdStructureCli.pdb

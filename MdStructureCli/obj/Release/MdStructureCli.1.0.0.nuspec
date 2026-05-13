@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>MdStructureCli</id>
+    <version>1.0.0</version>
+    <authors>MdStructureCli</authors>
+    <description>Package Description</description>
+    <packageTypes>
+      <packageType name="DotnetTool" />
+    </packageTypes>
+    <repository type="git" />
+  </metadata>
+  <files>
+    <file src="/home/sufyan/Desktop/New Folder/MdStructureCli/obj/Release/net10.0/DotnetToolSettings.xml" target="tools/net10.0/any/DotnetToolSettings.xml" />
+    <file src="/home/sufyan/Desktop/New Folder/MdStructureCli/bin/Release/net10.0/publish/MdStructureCli.deps.json" target="tools/net10.0/any/MdStructureCli.deps.json" />
+    <file src="/home/sufyan/Desktop/New Folder/MdStructureCli/bin/Release/net10.0/publish/MdStructureCli.dll" target="tools/net10.0/any/MdStructureCli.dll" />
+    <file src="/home/sufyan/Desktop/New Folder/MdStructureCli/bin/Release/net10.0/publish/MdStructureCli.pdb" target="tools/net10.0/any/MdStructureCli.pdb" />
+    <file src="/home/sufyan/Desktop/New Folder/MdStructureCli/bin/Release/net10.0/publish/MdStructureCli.runtimeconfig.json" target="tools/net10.0/any/MdStructureCli.runtimeconfig.json" />
+  </files>
+</package>
